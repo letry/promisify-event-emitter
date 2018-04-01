@@ -1,0 +1,7 @@
+{
+    "defaultEmitterMethodNames": {
+        "on": ["addEventListener", "addListener", "on"],
+        "off": ["removeEventListener", "removeListener", "off"],
+        "emit": ["dispatchEvent", "emit"]
+    }
+}
